@@ -1,0 +1,3 @@
+Automatic Run of Macro --> https://forum.peak-system.com/viewtopic.php?t=1293
+Python Control PCAN Explorer via COM --> https://forum.peak-system.com/viewtopic.php?f=205&t=6571
+Load PCAN Explorer via C# --> https://forum.peak-system.com/viewtopic.php?t=3410
