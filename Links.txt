@@ -1,3 +1,7 @@
 Automatic Run of Macro --> https://forum.peak-system.com/viewtopic.php?t=1293
 Python Control PCAN Explorer via COM --> https://forum.peak-system.com/viewtopic.php?f=205&t=6571
 Load PCAN Explorer via C# --> https://forum.peak-system.com/viewtopic.php?t=3410
+Excel Library Link --> C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSO.DLL;
+PCAN Explorer running with C# program using PCAN basic lib --> https://forum.peak-system.com/viewtopic.php?t=3807
+Connecting multiple CAN buses --> https://forum.peak-system.com/viewtopic.php?f=41&t=6973&sid=a04bc77283500776e92c4a5ba6cf0ca4
+Display variables from VBS-Macro in the ControlPanel --> https://forum.peak-system.com/viewtopic.php?f=50&t=255&p=718&hilit=power#p718
